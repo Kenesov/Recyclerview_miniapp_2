@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="task1_appbar_color">#151515</color>
+    <color name="task1_item_color">#0e0e0e</color>
+    <color name="task1_botton_color">#37b0ef</color>
+    <color name="task1_text_color">#cfcfcf</color>
+    <color name="green">#32a836</color>
+
+    <color name="task2_cart1_color">#2c74fa</color>
+    <color name="task2_cart2_color">#4f60d6</color>
+    <color name="task2_cart3_color">#be8fff</color>
+    <color name="task2_backround_color">#f6f7fb</color>
+    <color name="task2_add_icon_color">#ffb332</color>
+    <color name="task2_add_bg_color">#fffffd</color>
+    <color name="task6_btn">#f8cab2</color>
+    <color name="task6_btn2">#88878c</color>
+</resources>
